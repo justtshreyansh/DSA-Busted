@@ -5,3 +5,4 @@
 <li>Binary to Decimal
 <li>Decimal to Binary
 <li>Reverse Integer
+<li>Compliment of base 10 integer
