@@ -6,3 +6,4 @@
 <li>Decimal to Binary
 <li>Reverse Integer
 <li>Compliment of base 10 integer
+<li>Power of Two
