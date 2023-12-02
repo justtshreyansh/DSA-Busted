@@ -4,3 +4,4 @@
 <li>Number of 1 bits
 <li>Binary to Decimal
 <li>Decimal to Binary
+<li>Reverse Integer
